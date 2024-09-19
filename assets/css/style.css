@@ -111,8 +111,13 @@
 }
 
 .dark-mode .card .card-content .brown-text {
-  color: #ba9ffb !important;
+  color: #90caf9 !important;
 }
+
+.dark-mode .card .card-content ul p{
+  color: #e79393 !important;
+}
+
 
 .dark-mode .card .card-content .card-title .teal-text{ 
   color: #ba9ffb !important;
@@ -127,6 +132,14 @@
   color: #ba9ffb !important;
 }
 
+.dark-mode .container .row div div .card-reveal{ 
+  background-color: #141414 !important;
+}
+
+
+.dark-mode .container .row div div .card-reveal ul{ 
+  color: white !important;
+}
 
 
 .tracker {
