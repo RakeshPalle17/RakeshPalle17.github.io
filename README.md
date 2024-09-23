@@ -2,7 +2,7 @@
 ➡️ Rakesh Palle
 
 ## Sections 📚
-➡️ About me
+➡️ About me\
 ➡️ Experience\
 ➡️ Projects \
 ➡️ Skills \
